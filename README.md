@@ -1,3 +1,2 @@
 # Teacherwi.github.io
-
-<figure class="video_container"><iframe src="https://edpuzzle.com/embed/assignments/5ed7c220fa6c203f26806e98/watch" frameborder="0" allowfullscreen></iframe></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VK67ATkTptg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
